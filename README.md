@@ -4,4 +4,5 @@
 
 ## SQL_practice
 제가 운영했던 스터디 링크입니다.
-링크 : https://www.notion.so/9d0fcb0fc5204c44957dfcad54dcdd4c?pvs=4
+
+노션 링크 : https://www.notion.so/9d0fcb0fc5204c44957dfcad54dcdd4c?pvs=4
